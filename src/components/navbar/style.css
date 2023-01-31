@@ -1,0 +1,41 @@
+/* Nav */
+
+.nav {
+    padding: 30px 40px;
+}
+
+.nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-title {
+    margin-right: 3%;
+    font-size: 28px;
+}
+
+.nav-logo {
+    height: 50px;
+    margin-right: auto;
+}
+
+.nav-list {
+    align-items: center;
+}
+
+.nav-list a {
+    margin-left: 40px;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-login {
+    height: 25px;
+}
+
+span {
+    color: orange;
+    font-style: italic;
+    font-weight: 800;
+}
